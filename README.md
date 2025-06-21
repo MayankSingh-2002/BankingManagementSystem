@@ -1,6 +1,13 @@
 
 # 🏦 Bank Management System
 
+
+![C++](https://img.shields.io/badge/C%2B%2B-17-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows%2011%20%7C%20Linux-informational)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
+
 A console-based Bank Management System written in modern C++ using OOP principles. This project allows users to create accounts, log in, deposit/withdraw money, calculate interest, and track transaction history.
 
 ---
