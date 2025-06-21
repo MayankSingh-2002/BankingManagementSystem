@@ -1,0 +1,11 @@
+#Ignore build files
+BankApp
+*.exe
+*.o
+*.out
+
+#VS Code settings
+.vscode/
+
+#Generated account data
+data/*.txt
