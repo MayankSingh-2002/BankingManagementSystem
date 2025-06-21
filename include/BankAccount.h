@@ -15,7 +15,7 @@ class BankAccount {
         std::string accountPassword;
         std::string adhaarNumber;
         std::string email;
-        std::string phoneNUmber;
+        std::string phoneNumber;
         std::string accountType;
         double balance;
         std::vector<std::string> transactionHistory;
