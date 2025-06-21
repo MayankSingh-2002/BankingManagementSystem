@@ -32,7 +32,7 @@ class BankAccount {
         void showTransactionHistory();
         void saveToFile();
         bool loadFromFile();
-        void caluclateInterest();
+        void calculateInterest();
 
 };
 
