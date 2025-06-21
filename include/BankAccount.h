@@ -31,10 +31,10 @@ class BankAccount {
         void showAccountDetails();
         void showTransactionHistory();
         void saveToFile();
-        void loadFromFile();
+        bool loadFromFile();
         void caluclateInterest();
 
 };
 
 
-#endif
+#endif 
